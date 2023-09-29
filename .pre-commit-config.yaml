@@ -15,7 +15,7 @@ repos:
     rev: v3.0.3
     hooks:
       - id: prettier
-        types_or: [javascript, json, jsx, html, css, typescript]
+        types_or: [javascript, json, jsx, html, css]
 
 
 
